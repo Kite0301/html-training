@@ -2,3 +2,27 @@
   margin: 0;
   padding: 0;
 }
+
+/* ここからheader */
+.header {
+  height: 200px;
+  background-color: rgb(234, 232, 255);
+}
+
+/* headerここまで */
+
+/* ここからmain */
+.main {
+  height: 1000px;
+  background-color: rgb(255, 221, 245);
+}
+
+/* mainここまで */
+
+/* ここからfooter */
+.footer {
+  height: 500px;
+  background-color: rgb(218, 255, 226);
+}
+
+/* footerここまで */
