@@ -8,7 +8,16 @@
   height: 200px;
   background-color: rgb(234, 232, 255);
 }
-
+ul{
+  text-align: center;
+}
+.header li{
+  display: inline-block;
+  /display: inline
+  float:left;
+  list-style:none;
+  padding: 20px;
+}
 /* headerここまで */
 
 /* ここからmain */
