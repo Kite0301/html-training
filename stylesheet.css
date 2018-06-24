@@ -18,6 +18,9 @@ ul{
   list-style:none;
   padding: 20px;
 }
+.selected{
+  border-bottom: 1px solid rgb(237,205,25)
+}
 /* headerここまで */
 
 /* ここからmain */
